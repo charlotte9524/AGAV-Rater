@@ -3,12 +3,11 @@
 # AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment
 
 
-🎉 **<span style="color:#8B0000">Accepted by ICML 2025</span>**
+🎉 **<font color=#FF000>Accepted by ICML 2025</font>**
 
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/pdf/2501.18314v1)
 [![Project Website](https://img.shields.io/badge/AGAV--Rater-Website-4CAF50?logo=googlechrome&logoColor=white)](https://agav-rater.github.io/)
-<!-- [![Gradio Demo](https://img.shields.io/badge/Gradio-Demo-orange?style=flat&logo=Gradio&logoColor=red)](https://) -->
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/caoyuqin/AGAV-Rater)
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange)](https://huggingface.co/datasets/caoyuqin/AGAVQA-3k)
 </div>
